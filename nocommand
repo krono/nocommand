@@ -1,0 +1,5 @@
+#!/bin/sh
+while
+    printf "%s" "restrict shell, no commands # "
+    read
+do :; done
